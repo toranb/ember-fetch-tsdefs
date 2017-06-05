@@ -1,6 +1,6 @@
 {
   "name": "ember-fetch-tsdefs",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "type defs for ember-fetch",
   "main": "index.js",
   "author": "toran billups",
