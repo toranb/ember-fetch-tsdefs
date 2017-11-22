@@ -1,3 +1,5 @@
+This library shouldn't be necessary if you are using the latest `ember-fetch`  ;)
+
 # type defs for ember-fetch
 
 ## install
